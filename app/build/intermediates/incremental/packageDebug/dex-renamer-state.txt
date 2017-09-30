@@ -1,0 +1,7 @@
+#Thu Sep 28 10:30:06 WIB 2017
+base.0=/home/khilman/Desktop/basic25sep/CustomListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efc6163fc23ae19e38e600786874e15270fe5ffc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Desktop/basic25sep/CustomListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_304b6067e4a9720805152626a89de13c5b63c7bc/classes.dex
+base.1=/home/khilman/Desktop/basic25sep/CustomListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_304b6067e4a9720805152626a89de13c5b63c7bc
+file.0=/home/khilman/Desktop/basic25sep/CustomListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efc6163fc23ae19e38e600786874e15270fe5ffc/classes.dex
